@@ -3,5 +3,5 @@
 A collection of posts from my tech blog
 
 
-[GitHub](http://https://maplesyrupweb.com/)
+[Tech Blog](http://https://maplesyrupweb.com/)
 

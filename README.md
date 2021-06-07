@@ -12,4 +12,5 @@ A collection of posts from my technology blog
 
 [Tech Blog](https://maplesyrupweb.com/)
 
-Note that there is a seperate WordPress repo here:  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
+WordPress Repo:  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
+Apps Script Repo: [Apps-Script](https://github.com/maplesyrupweb/apps-scripts)

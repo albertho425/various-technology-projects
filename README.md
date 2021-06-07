@@ -8,7 +8,7 @@ A collection of posts from my technology blog: Technology Blog: [Tech Blog](http
 2) JavaScript
 
 
-# Repos
+# Repos / Links
 
 WordPress Repo:  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
 

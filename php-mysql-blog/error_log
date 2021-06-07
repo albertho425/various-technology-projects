@@ -1,0 +1,16 @@
+[26-Nov-2020 23:58:36 UTC] PHP Notice:  Undefined index: info in /home/fa87uceut8y0/public_html/php/blog/index.php on line 25
+[27-Jan-2021 08:14:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'vghsim'@'localhost' (using password: YES) in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 11
+[27-Jan-2021 08:14:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 22
+[27-Jan-2021 08:14:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fa87uceut8y0/public_html/php/blog/index.php on line 50
+[27-Jan-2021 08:15:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'vghsim'@'localhost' (using password: YES) in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 11
+[27-Jan-2021 08:15:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 22
+[27-Jan-2021 08:15:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fa87uceut8y0/public_html/php/blog/index.php on line 50
+[27-Jan-2021 08:15:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'vghsim'@'localhost' (using password: YES) in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 11
+[27-Jan-2021 08:15:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 22
+[27-Jan-2021 08:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fa87uceut8y0/public_html/php/blog/index.php on line 50
+[27-Jan-2021 08:16:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'vghsim'@'localhost' (using password: YES) in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 11
+[27-Jan-2021 08:16:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 22
+[27-Jan-2021 08:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fa87uceut8y0/public_html/php/blog/index.php on line 50
+[27-Jan-2021 08:16:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'vghsim'@'localhost' (using password: YES) in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 11
+[27-Jan-2021 08:16:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fa87uceut8y0/public_html/php/blog/crud.php on line 22
+[27-Jan-2021 08:16:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/fa87uceut8y0/public_html/php/blog/index.php on line 50

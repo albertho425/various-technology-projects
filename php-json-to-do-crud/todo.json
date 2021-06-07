@@ -1,0 +1,17 @@
+{
+    "Study PHP": {
+        "completed": true
+    },
+    "Study SQL": {
+        "completed": true
+    },
+    "Study CSS": {
+        "completed": true
+    },
+    "Study C++": {
+        "completed": false
+    },
+    "Study Ruby": {
+        "completed": false
+    }
+}

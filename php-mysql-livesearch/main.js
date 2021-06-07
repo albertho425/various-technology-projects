@@ -1,4 +1,6 @@
-/**
+
+ /**
+ *  Fetch the search data
  *  
  */
 
@@ -8,8 +10,8 @@ function search(name) {
 }
 
 /**
- *  Search.
- *  Note, working normally when using res.text() not working when res.json()
+ *  Fetch the search data
+ *  
  */
 
 function fetchSearchData(name) {
@@ -18,8 +20,12 @@ function fetchSearchData(name) {
         method: 'POST',
         body: new URLSearchParams('name=' + name )
     })
-    .then(res => res.json())   
+    
+    // fetch the result in text format
     // .then(res => res.text())
+    
+
+    .then(res => res.json())   
     .then(res => console.log(res))
     .then(res => viewSearchResult(res))
     .catch(e => console.error('Error: ' + e))

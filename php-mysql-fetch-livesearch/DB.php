@@ -43,7 +43,7 @@ class DB {
         }
 
     /**
-     *  View the data in the database
+     *  Query and return the data
      */
     
     public function viewData() {

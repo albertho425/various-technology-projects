@@ -1,13 +1,14 @@
 # tech-blog
 
-A collection of posts from my technology blog
+A collection of posts from my technology blog: Technology Blog: [Tech Blog](https://maplesyrupweb.com/)
 
 ## Topics
 
 1) PHP / MySQL
 2) JavaScript
 
-Technology Blog: [Tech Blog](https://maplesyrupweb.com/)
+
+# Repos
 
 WordPress Repo:  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
 

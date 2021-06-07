@@ -1,0 +1,3 @@
+<?=template_footer()?>
+ is the same as
+ <?php echo template_footer(); ?>

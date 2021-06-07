@@ -1,4 +1,4 @@
-# php-sortable-table
+# php-mysql-sortable-table
 
 ## Introduction
 

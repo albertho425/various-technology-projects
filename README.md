@@ -12,3 +12,4 @@ A collection of posts from my technology blog
 
 [Tech Blog](https://maplesyrupweb.com/)
 
+Note that there is a seperate WordPress repo here [https://github.com/maplesyrupweb/wp-demo]

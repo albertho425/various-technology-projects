@@ -10,9 +10,9 @@ A collection of posts from my technology blog: Technology Blog: [Tech Blog](http
 
 # Repos / Links
 
-WordPress Repo:  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
+WordPress Repo (Plugins, Themes, Child Themes):  [WP-Demo](https://github.com/maplesyrupweb/wp-demo)
 
-Technology Blog Repo: [Tech-Blog](https://github.com/maplesyrupweb/tech-blog/)
+Technology Blog (PHP/MySQL/JavaScript/WordPress) [Tech-Blog](https://github.com/maplesyrupweb/tech-blog/)
 
 Apps Script Repo: [Apps-Script](https://github.com/maplesyrupweb/apps-scripts)
 
